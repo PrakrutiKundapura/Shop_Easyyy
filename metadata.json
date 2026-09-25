@@ -1,0 +1,6 @@
+{
+  "name": "Shop_Easyyy",
+  "description": "A modern, premium, fully responsive e-commerce shopping experience with curated collections, interactive cart, seamless checkout, order tracking, and wishlist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
